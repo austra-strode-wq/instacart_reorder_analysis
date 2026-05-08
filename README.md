@@ -1,6 +1,7 @@
 # Instacart Grocery Reordering Pattern Analysis
-Customer reordering behaviour and demand pattern analysis using SQL and Power BI on the Instacart Online Grocery Shopping Dataset 2017.
+
 Project Overview
+
 This project analyses customer reordering behaviour using the Instacart Online Grocery Shopping Dataset 2017, a publicly available dataset released by Instacart containing over 3 million anonymised grocery orders from more than 200,000 customers.
 The analysis was conducted using Microsoft SQL Server (SSMS) for data cleaning, transformation and analysis, and Microsoft Power BI for visualisation.
 The central business question driving this project:
