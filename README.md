@@ -8,6 +8,8 @@ The central business question driving this project:
 "What reordering patterns exist in customer behaviour, and how can this inform stock and inventory planning?"
 This question was chosen to reflect real operational challenges in grocery retail - understanding what customers buy repeatedly, when they buy it, and how frequently, has direct implications for stock availability, replenishment planning and workforce scheduling.
 
+![Instacart Grocery Dashboard](Instacart%20Full.png)
+
 ## Business Questions
 The analysis is structured around one central question with four supporting sub-questions:
 
