@@ -6,4 +6,4 @@ This project analyses customer reordering behaviour using the Instacart Online G
 The analysis was conducted using Microsoft SQL Server (SSMS) for data cleaning, transformation and analysis, and Microsoft Power BI for visualisation.
 The central business question driving this project:
 "What reordering patterns exist in customer behaviour, and how can this inform stock and inventory planning?"
-This question was chosen to reflect real operational challenges in grocery retail — understanding what customers buy repeatedly, when they buy it, and how frequently, has direct implications for stock availability, replenishment planning and workforce scheduling.
+This question was chosen to reflect real operational challenges in grocery retail - understanding what customers buy repeatedly, when they buy it, and how frequently, has direct implications for stock availability, replenishment planning and workforce scheduling.
